@@ -1,3 +1,5 @@
+![ML Algorithms](https://github.com/debarshee2004/ml_algorithms/assets/129538241/21ff337d-669d-41e3-9d48-3ab5a1f005ec)
+
 # MACHINE LEARNING ALGORITHMS Repository
 
 This repository contains implementations of various machine learning algorithms in Python using NumPy. The goal of this project is to provide a comprehensive collection of well-documented and easily understandable machine learning algorithms, making it a valuable resource for learning and reference.
