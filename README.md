@@ -6,12 +6,14 @@ This repository contains implementations of various machine learning algorithms 
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Algorithms](#algorithms)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+- [MACHINE LEARNING ALGORITHMS Repository](#machine-learning-algorithms-repository)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Algorithms](#algorithms)
+  - [Usage](#usage)
+  - [Dependencies](#dependencies)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Introduction
 
@@ -65,3 +67,5 @@ Contributions are welcome! If you'd like to contribute to this repository, pleas
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your purposes. Refer to the [LICENSE](LICENSE) file for more details.
+
+---
