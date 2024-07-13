@@ -1,0 +1,10 @@
+# List of packages
+# python -m venv .venv
+# For Windows: .venv\Scripts\Activate.ps1
+# For Linux: source <venv>/bin/activate
+# pip install -r requirements.txt
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
