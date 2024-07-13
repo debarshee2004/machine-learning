@@ -1,4 +1,4 @@
-![ML Projects](https://github.com/debarshee2004/ml_projects/assets/129538241/21ff337d-669d-41e3-9d48-3ab5a1f005ec)
+![machine-learning](https://github.com/user-attachments/assets/36af87a9-0129-4399-b1f3-59058e4a0893)
 
 # MACHINE LEARNING Projects Repository
 
